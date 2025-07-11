@@ -1,11 +1,13 @@
 ### What up 🤜
 
-I'm Zoro, a JavaScript/Ruby developer and iOS fan living in Chengdu 🐼, China 🇨🇳.
+I'm Zoro — a Full-Stack Engineer & iOS fan.  
+Built lots of open-source stuff with JavaScript back in the days.  
+These days I'm diving into Machine Learning, hoping to build something meaningful with AI.
 
-- 🚞 I'm mainly working on Next.js and Rails projects recently two years, ~~and also maintaining an open source iOS side project [stuhome](https://github.com/just4fun/stuhome)~~ (2017-2023)
-- 👨‍💻 You can find more of my projects [here](https://just4fun.github.io/projects/)
-- 👪 I'm also a daddy and husband
-- 🎧 I love hiphop, kick boxing, running and swimming
+- 🧠 JS / Ruby / Machine Learning / Product ideas  
+- 🧑🏻‍💻 More projects? [Check them out](https://just4fun.github.io/projects/)  
+- 🌞 By day: coder, dad & husband  
+- 🥊 By night: part-time boxer chasing combos
 
 ### GitHub Stats
 
